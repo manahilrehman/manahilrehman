@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**manahilrehman/manahilrehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Manahil Rehman 👋
 
-Here are some ideas to get you started:
+I am a **BS Computer Science student** with a **3.88 GPA**. I am passionate about technology and building efficient software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 About Me
+- 🎓 Currently in my 4th Semester.
+- 💻 Learning and practicing **Java** and **C++**.
+- 📊 Interested in Data Structures, and Database Management Systems.
+- 🧩 Love solving logic riddles and puzzles.
+
+ 🛠️ Skills
+- Languages: Java, C++, SQL.
+-Tools: Microsoft Office, Git, GitHub.
